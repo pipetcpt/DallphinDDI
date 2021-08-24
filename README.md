@@ -1,6 +1,6 @@
 # Dallphin <a href='https:/github.com/pipetcpt/DallphinDDI'><img src='assets/new-logo.png' align="right" height="100" /></a>
 
-**Drugs with Allometry and Physiology Inside**
+**Drugs with Allometry and Physiology Inside** Drug-Drug Interaction
 
 <!-- badges: start -->
 [![GitHub release](https://img.shields.io/github/release-pre/pipetcpt/DallphinDDI.svg)](https://github.com/pipetcpt/DallphinDDI/releases)
