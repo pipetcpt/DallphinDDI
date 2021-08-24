@@ -1,4 +1,4 @@
-# Dallphin <a href='https:/github.com/pipetcpt/DallphinDDI'><img src='assets/new-logo.png' align="right" height="100" /></a>
+# DallphinDDI <a href='https:/github.com/pipetcpt/DallphinDDI'><img src='assets/new-logo.png' align="right" height="100" /></a>
 
 **Drugs with Allometry and Physiology Inside** Drug-Drug Interaction
 
